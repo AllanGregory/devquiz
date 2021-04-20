@@ -14,4 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# devquiz
+
+
+# Setup do ambiente
+
+Tive que baixar o SDK do Flutter em https://flutter.dev/docs/get-started/install
+
+Depois, para configurar o VS Code, baixei a extensão Flutter da Dart Code.
+Com os comandos ctrl + shift + p, digitei "Flutter" e selecionei para criar um novo projeto na pasta que eu desejava.
+
+O VS Code não identificou o SDK do Flutter, abrindo uma caixa de diálogo, onde eu cliquei para setar a pasta de onde ele encontraria o SDK do Flutter e, em seguida, pede para setar a pasta que será aplicada a SDK no projeto.
